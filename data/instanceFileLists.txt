@@ -1,0 +1,42 @@
+#DBpedia
+#/weiyuze/allDataset/DBpedia/ontology/instance-types_en.txt
+#/weiyuze/allDataset/DBpedia/ontology/mappingbased-properties_en.txt
+#/weiyuze/allDataset/DBpedia/ontology/specific-mappingbased-properties_en.txt
+
+#/weiyuze/allDataset/DBpedia/benchmark_10.txt
+
+#johnpeel
+#/weiyuze/allDataset/johnpeel/peel.txt
+
+#link between DBpedia and johnpeel
+#/weiyuze/allDataset/johnpeel/dbpedia-johnpeel-agents.txt
+#/weiyuze/allDataset/johnpeel/dbpedia-johnpeel-works.txt
+
+#link between DBpedia and DBLP
+#/weiyuze/allDataset/DBpedia/interlink/dbpedia_dblp_links.txt
+
+#YAGO
+#/weiyuze/allDataset/YAGO/yagoinstance.txt
+
+#Linking between DBpedia and YAGO
+#/weiyuze/allDataset/DBpedia/interlink/yago/yago_links.txt
+#/weiyuze/allDataset/DBpedia/interlink/yago/yago_links_10.txt
+
+#LUBM
+#/weiyuze/allDataset/lubm/lubm50_dl.txt
+#/weiyuze/allDataset/lubm/lubm100_dl.txt
+#/weiyuze/allDataset/lubm/lubm250_dl.txt
+#/weiyuze/allDataset/lubm/lubm500_dl.txt
+/weiyuze/allDataset/lubm/lubm750_dl_*
+
+#Uniprot
+#/weiyuze/allDataset/uniprot/uniprotkb_archea_dpann_group_1783276.txt
+#/weiyuze/allDataset/uniprot/uniprotkb_viruses_10239_txt/part-000*
+
+#/weiyuze/allDataset/uniprot/uniprotkb_bacteria_terrabacteria_group_1783272_15000000.txt
+
+#test
+#/weiyuze/allDataset/test.txt
+#/weiyuze/allDataset/insert_right.txt
+#/weiyuze/allDataset/insert_wrong.txt
+#/home/cluster/weiyuze/code/KGReasoner/test.txt

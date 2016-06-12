@@ -1,0 +1,14 @@
+#DBpedia
+#/weiyuze/allDataset/DBpedia/ontology/dbpedia_2015-04.txt
+
+#LUBM
+/weiyuze/allDataset/lubm/univ-bench-dl-final.txt
+
+#YAGO
+#/weiyuze/allDataset/YAGO/yagoschema.txt
+
+#Uniprot
+#/weiyuze/allDataset/uniprot/uniprot_schema.txt
+
+#test
+#/home/cluster/weiyuze/allDataset/lubm/univ-bench-dl-final.txt
